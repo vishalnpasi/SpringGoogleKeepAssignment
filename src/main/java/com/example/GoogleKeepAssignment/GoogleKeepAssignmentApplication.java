@@ -7,9 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GoogleKeepAssignmentApplication {
 
 	public static void main(String[] args) {
-
 		SpringApplication.run(GoogleKeepAssignmentApplication.class, args);
 		System.out.println("Server Started...");
 	}
-
 }
